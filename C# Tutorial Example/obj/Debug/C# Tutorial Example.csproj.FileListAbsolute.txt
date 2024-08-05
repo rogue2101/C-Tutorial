@@ -1,0 +1,35 @@
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\bin\Debug\C# Tutorial Example.exe.config
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\bin\Debug\C# Tutorial Example.exe
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\bin\Debug\C# Tutorial Example.pdb
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\obj\Debug\C# Tutorial Example.csproj.AssemblyReference.cache
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\obj\Debug\C# Tutorial Example.csproj.CoreCompileInputs.cache
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\obj\Debug\C# Tutorial Example.exe
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\obj\Debug\C# Tutorial Example.pdb
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\bin\Debug\InsuranceDetails.dll
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\bin\Debug\InsuranceDetails.pdb
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\obj\Debug\C# Tutor.B6F1DACD.Up2Date
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\bin\Debug\Json.Net.dll
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\bin\Debug\Newtonsoft.Json.dll
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\bin\Debug\System.Buffers.dll
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\bin\Debug\System.Memory.dll
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\bin\Debug\System.Text.Json.dll
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\bin\Debug\System.ValueTuple.dll
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\bin\Debug\Newtonsoft.Json.xml
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\bin\Debug\System.Buffers.xml
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\bin\Debug\System.Memory.xml
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\bin\Debug\System.Text.Json.xml
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\bin\Debug\System.ValueTuple.xml
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\obj\Debug\C# Tutorial Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\obj\Debug\C# Tutorial Example.exe.config
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\bin\Debug\XML Extractor.dll
+C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial Example\bin\Debug\XML Extractor.pdb
