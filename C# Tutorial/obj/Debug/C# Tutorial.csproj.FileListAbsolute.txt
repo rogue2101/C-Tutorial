@@ -1,7 +1,0 @@
-C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial\bin\Debug\C# Tutorial.exe.config
-C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial\bin\Debug\C# Tutorial.exe
-C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial\bin\Debug\C# Tutorial.pdb
-C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial\obj\Debug\C# Tutorial.csproj.AssemblyReference.cache
-C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial\obj\Debug\C# Tutorial.csproj.CoreCompileInputs.cache
-C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial\obj\Debug\C# Tutorial.exe
-C:\Users\remotestate\source\repos\C# Tutorial\C# Tutorial\obj\Debug\C# Tutorial.pdb
