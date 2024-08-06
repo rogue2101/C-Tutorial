@@ -1,8 +1,4 @@
 ﻿using static System.Console;
-using System.Collections.Generic;
-using System.IO;
-using System.Xml.Serialization;
-using System.Text.Json;
 using System;
 using InsuranceDetailsExtractor;
 using XML_Extractor;
