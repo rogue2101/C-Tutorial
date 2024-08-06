@@ -11,7 +11,7 @@ using XML_Extractor;
 
 namespace InsuranceListExtractionExample
 {
-    public class Program
+    public class XMLToJson
     {
         static void Main(string[] args)
         {
